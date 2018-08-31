@@ -20,7 +20,7 @@
     background-size:  100%;
     min-height: 460px;
     overflow: hidden;
-    background-image: url(../../1.jpg);
+    background-image: url(images/1.jpg);
 }
 .nav{
     padding: 10px;
@@ -103,7 +103,7 @@
 }
 
 .image__background--ski{
-    background-image: url(../../skiing.jpg);
+    background-image: url(images/skiing.jpg);
     background-size:  100%;
     background-repeat:no-repeat;
     width: 33%;
@@ -116,7 +116,7 @@
 }
 
 .image__background--volcano{
-    background-image: url(../../volcano.jpg);
+    background-image: url(images/volcano.jpg);
     background-size:  100%;
     background-repeat:no-repeat;
     width: 33%;
@@ -129,7 +129,7 @@
 }
 
 .image__background--beach{
-    background-image: url(../../beach.jpg);
+    background-image: url(images/beach.jpg);
     background-size:  100%;
     background-repeat:no-repeat;
     width: 33%;
