@@ -1,2 +1,0 @@
-# competa
-## test jonge
